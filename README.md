@@ -1,5 +1,7 @@
 # 📊 Social Media Engagement Analysis Dashboard
 
+![Image](https://github.com/user-attachments/assets/c5047f80-4198-4249-ba43-70630b0116a9)
+
 ## 🔍 Project Overview
 
 This project analyzes viral trends across **Facebook**, **Instagram**, and **Twitter** using a dataset of 100 posts. It highlights patterns in user engagement, post types, timing, and sentiment — providing key insights for marketers, content creators, and social media analysts.
